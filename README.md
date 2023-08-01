@@ -18,7 +18,7 @@ I have also performed API test using Postman matching my coding skills which inv
 My career goal is to ensure quality assurance and test standards are met and I am always researching new testing techniques to drive improvement to existing processes.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive]([https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing]). (https://github.com/etienontuk/portfolio/blob/06a7f0b6c18cf06e7bd6e4ca9b26bfbbac7209a7/README.md#about-me)]
+You can download my CV as [a PDF from my Google Drive]([https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing]).
 
 ## Skills
 
