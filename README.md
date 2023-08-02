@@ -54,6 +54,10 @@ __Python fundamentals__
   * know when to use for and while
   * able to comprehend easy codes
 
+__Html, CSS, JavaScript__
+* can write and interpret code from a browser console when I investigate a page
+  * conduct validation testing to ensure that code appears with the correct syntax and format
+
 ## Tools
 
 __TestRail__
@@ -64,13 +68,6 @@ __TestRail__
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
-
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
 
 __Trello and Notion__
   * know how to use Kanban boards and track project progress
@@ -83,19 +80,15 @@ __Mind maps & diagrams__
 __Robot Framework Test Automation, Levels 1-4__  
 *online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
 An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
 *Level 2-4 in progress*
 
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+__Software Testing Full Course__  
+*online course by Edureka*  
+A comprehensive course in quality assurance, covering skills in functional testing and test automation.   
 
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
-
+__Manual Testing Full Course__  
+*online course by SDET-QA Automation Techie*  
+An intensive introductory course to software testing. 
 
 ## Examples of my work
 
