@@ -87,7 +87,7 @@ An intensive introductory course to software testing.
 ## Examples of my work
 
 ### PROJECT ONE:
-Testing the net banking facility of the esteemed "Guru99 Bank" Refer to open source SRS document here
+Testing the net banking facility of the esteemed "Guru99 Bank" Refer to open source SRS document [here](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)
 
 - [Mockups](https://docs.google.com/document/d/1RKYNeBlfNDLghH1C4YTWRxX_UXeNJTQ8O0KmaqWcSLY/edit) was used to create demo test cases
   * Test Cases for Module 1 (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
