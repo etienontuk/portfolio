@@ -25,52 +25,46 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * I can perform manual functional and usability testing of web applications
+  * I gained hands-on experience by testing applications created for educational purposes
 
 __Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+  * I am familiar with functional decomposition of products, creating state transition diagrams, writing use cases
+  * I can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
 __API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
+  * I gained experience through manual testing of APIs created for educational purposes
+  * I know how to manipulate requests and create test cases using the SoapUI tool
 
 __Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+  * I am capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
 
 __Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
+  * I can create test cases and checklists and know how and in which situations to use them effectively
+  * I am able to prepare comprehensive bug reports and provide detailed session reports
 
 __SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
+  * I can write basic requests using subqueries
 
 __Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+  * Ican write simple functions and algorithms
+  * I know when to use for and while
+  * I am able to comprehend easy codes
 
-__Html, CSS, JavaScript__
-* can write and interpret code from a browser console when I investigate a page
-  * conduct validation testing to ensure that code appears with the correct syntax and format
+__Html, CSS, Java__
+* I can write and interpret code from a browser console when I investigate a page
+  * I can conduct validation testing to ensure that code appears with the correct syntax and format
 
 ## Tools
 
 __TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+  * I know how to create test cases and test suits
+  * I am able to run created test cases
+  * I know how to use dashboards and statistics
 
 __Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
+  * I know how to create bug reports
+  * I am able to create projects and track their progress
 
 __Mind maps & diagrams__
   * know how to design beautifully simple mind maps
@@ -92,11 +86,12 @@ An intensive introductory course to software testing.
 
 ## Examples of my work
 
-### Test cases and work in TestRail
+### PROJECT ONE:
+Testing the net banking facility of the esteemed "Guru99 Bank" Refer to open source SRS document here
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+- [Mockups](https://docs.google.com/document/d/1RKYNeBlfNDLghH1C4YTWRxX_UXeNJTQ8O0KmaqWcSLY/edit) was used to create demo test cases
+  * Test Cases for Module 1 (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
+  * Integration Test Cases (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
 
 - [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
   * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
@@ -104,7 +99,7 @@ An intensive introductory course to software testing.
   * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
 
 
-### Bug reports and work in Jira
+### Bug reports and work in Excel
 
 - Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
